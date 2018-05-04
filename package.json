@@ -1,0 +1,16 @@
+{
+  "name": "08_09_commerce_api_project",
+  "version": "1.0.0",
+  "description": "scrap decathlon products api",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "start":"node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pg": "^7.4.1",
+    "request": "^2.85.0"
+  }
+}
